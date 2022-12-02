@@ -6,3 +6,4 @@ https://adventofcode.com </br>
 
 # 
 Day 01 : ⭐⭐ [C++]
+Day 02 : ⭐⭐ [C++]
