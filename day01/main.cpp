@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     while (!input.eof())
     {
         std::string buffer;
-        getline(input, buffer);
+        std::getline(input, buffer);
 
         // empty line means current elf is done counting calories
         if (buffer.length() == 0)
