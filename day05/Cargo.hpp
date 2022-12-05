@@ -1,20 +1,22 @@
 #include <iostream>
-#include <stack>
 #include <vector>
+#include <stack>
 
 class Cargo
 {
 private:
 
-    std::vector<std::stack<char> > _storage;
+    std::vector<std::vector<char> > _storage;
 
 public:
 
-    Cargo(std::stack<std::string> raw_storage);
+    Cargo(std::vector<std::string> raw_storage);
     ~Cargo();
 
-    void move_crates(int moves, int src, int dest);
+    void move_crates_9000(int moves, int src, int dest);
+    void move_crates_9001(int moves, int src, int dest);
     void print_message();
     void print_size();
+    void print_stack();
 
 };
