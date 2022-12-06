@@ -10,5 +10,7 @@ Day 02 : ⭐⭐ [C++] </br>
 Day 03 : ⭐⭐ [C++] </br>
 Day 04 : ⭐⭐ [Python] </br>
 Day 05 : ⭐⭐ [C++] </br>
+Day 06 : ⭐⭐ [C++] </br>
+
 
 
